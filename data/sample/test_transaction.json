@@ -1,0 +1,12 @@
+{
+  "transaction_id": "txn_demo_001",
+  "card_id": "card_abc123",
+  "amount": 2340.00,
+  "merchant_category": "electronics",
+  "timestamp": "2026-06-13T02:15:00Z",
+  "device_id": "dev_xyz789",
+  "country": "US",
+  "email_domain": "gmail.com",
+  "billing_addr": "94105",
+  "shipping_addr": "10001"
+}
