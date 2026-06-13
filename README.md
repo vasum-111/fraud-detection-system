@@ -1,8 +1,13 @@
 # 🛡️ Real-Time Fraud Detection System
 
-A production-grade, end-to-end fraud detection system with real-time scoring API, explainability, and monitoring.
+[![API Status](https://img.shields.io/badge/API-Live-brightgreen)](https://fraud-detection-system-xigb.onrender.com/health)
+[![Docs](https://img.shields.io/badge/Docs-Swagger-blue)](https://fraud-detection-system-xigb.onrender.com/docs)
 
-> **Built to demonstrate:** Feature engineering · Ensemble ML · REST API · Model explainability · Dockerized deployment
+A production-grade, end-to-end fraud detection system trained on **284,807 real credit card transactions**.
+
+🚀 **Live API**: https://fraud-detection-system-xigb.onrender.com/docs
+
+> **Built to demonstrate:** Feature engineering · Ensemble ML · REST API · Model explainability · Cloud deployment
 
 ---
 
