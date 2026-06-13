@@ -19,13 +19,12 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data & Models (too large for git)
+# Data (too large for git — 144MB raw CSV)
 data/raw/
 data/processed/
-models/*.pkl
-models/*.joblib
-models/*.json
-!models/.gitkeep
+
+# Models — pkl is only 2.6MB so we include it in git for deployment
+# models/*.pkl  intentionally NOT excluded
 
 # MLflow
 mlruns/
